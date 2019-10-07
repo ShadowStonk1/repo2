@@ -2,7 +2,7 @@ Package: com.ShadowStonk.Nudekeys
 Version: 1.4-1
 Architecture: iphoneos-arm
 Maintainer: ShadowStonk <samo.2008@icloud.com>
-Depends: mobilesubstrate
+Depends: 
 Filename: Debs//Nudekeys1.4-1.deb
 Size: 11202784
 MD5sum: 2207a3517a5794960d9de6809d258894
