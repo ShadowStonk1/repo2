@@ -3,7 +3,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: ShadowStonk <samo.2008@icloud.com>
 Depends: 
-Filename: Debs//Nudekeys1.4-1.deb
+Filename: /Debs/com.ShadowStonk.Nudekeys_1.5_iphoneos-arm.deb
 Size: 11202784
 MD5sum: 2207a3517a5794960d9de6809d258894
 SHA1: 594c3148e92bcfa7933cc2d62dc0c425ec055c9b
