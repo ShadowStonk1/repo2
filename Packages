@@ -1,0 +1,14 @@
+Package: com.ShadowStonk.Nudekeys
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: ShadowStonk <samo.2008@icloud.com>
+Depends: firmware <12
+Filename: Debs//Nudekeys1.4-1.deb
+Size: 11202784
+MD5sum: 2207a3517a5794960d9de6809d258894
+SHA1: 594c3148e92bcfa7933cc2d62dc0c425ec055c9b
+SHA256: 09db20713d9e96dcc500a45243131e697e0a8dc3a92547ce99495417be52a881
+Section: Tweaks
+Description: Test
+Author: ShadowStonk <samo.2008@icloud.com>
+Name: NudeKeys (iOS 12)
